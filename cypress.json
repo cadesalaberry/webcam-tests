@@ -1,4 +1,6 @@
 {
+  "baseUrl": "http://e2e.test:8080",
+  "chromeWebSecurity": false,
   "viewportHeight": 460,
   "viewportWidth": 660
 }
